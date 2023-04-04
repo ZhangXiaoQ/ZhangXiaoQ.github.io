@@ -11,10 +11,15 @@ actions:
     type: primary
 
 features:
-  - title: Java
+  - title: Java实战
     icon: java
     details: 新增文字对齐、上下角标、脚注、标记、任务列表、数学公式
-    link: /cheetah/java/
+    link: /cheetah/java/PageHelper.html
+
+  - title: 并发
+    icon: rank
+    details: 新增文字对齐、上下角标、脚注、标记、任务列表、数学公式
+    link: /cheetah/concurrent/20张图带你彻底了解 ReentrantLock 加锁解锁的原理.html
 
   - title: JVM
     icon: storage
@@ -25,6 +30,11 @@ features:
     icon: mysql
     details: 配合 Waline 来开启阅读量统计与评论支持
     link: /cheetah/mysql/InnoDB 的锁和 MVCC.html
+
+  - title: Spring
+    icon: leaf
+    details: 添加路径导航、页脚、改进的导航栏、改进的页面导航等。
+    link: /cheetah/spring/IDEASpring.html
 
   - title: Redis
     icon: workingDirectory
@@ -50,6 +60,17 @@ features:
     icon: lock
     details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
     link: /cheetah/lock/手把手教你集成 shiro.html
+
+  - title: 工具推荐
+    icon: tool
+    details: 新增文字对齐、上下角标、脚注、标记、任务列表、数学公式
+    link: /cheetah/tool/插件.html
+ 
+  - title: 随笔
+    icon: write
+    details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
+    link: /cheetah/write/笑对过往、活在当下、期盼未来.html
+
 
 
 copyright: false

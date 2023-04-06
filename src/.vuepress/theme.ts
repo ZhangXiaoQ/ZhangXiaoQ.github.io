@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "阿Q",
-    url: "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5MDg2NjEzNA==#wechat_redirect",
+    url: "https://app.yinxiang.com/fx/d1ae87df-aa4e-498e-bcf2-32013fd1f523",
   },
   
   iconAssets: "iconfont",
